@@ -1,0 +1,1 @@
+[{"id":1,"name":"sad","coordinates":{"x":14,"y":124.0},"creationDate":{"dateTime":{"date":{"year":2020,"month":9,"day":13},"time":{"hour":20,"minute":52,"second":26,"nano":883396700}},"offset":{"totalSeconds":10800},"zone":{"id":"Europe/Moscow"}},"annualTurnover":13.0,"fullName":"124","employeesCount":54,"type":"TRUST","officialAddress":{"street":"124","town":"241"}}]
